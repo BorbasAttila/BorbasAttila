@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BorbasAttila
 - 👀 I’m interested in programming and software testing.
-- 🌱 I’m currently learning Python and SQL.
+- 🌱 I’m currently learning Python, JavaScript and Wordpress.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
